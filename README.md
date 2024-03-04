@@ -1,4 +1,4 @@
-# keyboard-magic
+# keyboard-magic(DESKTOP)
 This is a simple project in which when user press any key it is shown on screen.
 
 # steps to build this project
